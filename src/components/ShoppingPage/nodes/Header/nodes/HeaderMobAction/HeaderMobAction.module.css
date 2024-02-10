@@ -1,0 +1,71 @@
+.header_button {
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: none;
+  background: #2d1312;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: "Roboto", sans-serif;
+}
+.header_button:hover {
+  background: #7e5553;
+  transition: 0.3s;
+}
+.header_mob_logo {
+  font-family: "Righteous", sans-serif;
+  color: #2d1312;
+  font-size: 16px;
+}
+.header_mob_action img {
+  cursor: pointer;
+}
+.header_mob_modal {
+  top: 0;
+  right: 0;
+  left: 0;
+  position: fixed;
+  display: flex;
+  padding: 15px;
+}
+.header_mob_modal_content {
+  padding: 20px;
+  background: #f2ece2;
+  width: 100%;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+}
+.header_mob_modal_content ul {
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  align-items: center;
+  gap: 20px;
+}
+.header_mob_navbar_link {
+  color: #2d1312;
+  font-size: 20px;
+}
+
+@media screen and (min-width: 0) and (max-width: 767px) {
+  .header_mob_action {
+    display: flex;
+    gap: 164px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .header_mob_action {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header_mob_action {
+    display: none;
+  }
+}

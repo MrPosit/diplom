@@ -1,0 +1,39 @@
+.register_action {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+  gap: 20px;
+  border-radius: 5px;
+}
+.register_action_input {
+  outline: none;
+  border-radius: 5px;
+  border: none;
+}
+
+@media screen and (min-width: 0) and (max-width: 767px) {
+  .register_action_input {
+    width: 300px;
+    padding: 10px;
+    font-size: 17px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .register_action_input {
+    width: 350px;
+    padding: 10px;
+    font-size: 17px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .register_action_input {
+    width: 350px;
+    padding: 10px;
+    font-size: 17px;
+  }
+}

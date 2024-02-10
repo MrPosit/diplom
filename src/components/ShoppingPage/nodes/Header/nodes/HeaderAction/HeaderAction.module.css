@@ -1,0 +1,82 @@
+.header_action {
+  font-family: "Roboto", sans-serif;
+}
+.header_logo {
+  font-family: "Righteous", sans-serif;
+  color: #2d1312;
+  display: flex;
+  align-items: center;
+  transition: 0.3s;
+  cursor: default;
+}
+.header_logo:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+.header_navbar {
+  display: flex;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+}
+.header_navbar_link {
+  color: #2d1312;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.header_navbar_link:hover {
+  color: #e62f0f;
+  transition: 0.3s;
+}
+.header_button {
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: none;
+  background: #2d1312;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: "Roboto", sans-serif;
+}
+.header_button:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+@media screen and (min-width: 0) and (max-width: 767px) {
+  .header_action {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .header_logo {
+    font-size: 14px;
+  }
+  .header_navbar {
+    gap: 40px;
+  }
+  .header_navbar_link {
+    font-size: 14px;
+  }
+  .header_action {
+    gap: 64px;
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header_logo {
+    font-size: 18px;
+  }
+  .header_navbar {
+    gap: 40px;
+  }
+  .header_navbar_link {
+    font-size: 18px;
+  }
+  .header_action {
+    gap: 249px;
+    display: flex;
+  }
+}

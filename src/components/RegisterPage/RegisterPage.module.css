@@ -1,0 +1,28 @@
+.register_container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Mulish";
+}
+
+@media screen and (min-width: 0) and (max-width: 767px) {
+  .register_container {
+    background: url("../../../public/img/123.jpg") no-repeat;
+    background-size: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .register_container {
+    background: url("../../../public/img/123.jpg") no-repeat;
+    background-size: 100%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .register_container {
+    background: url("../../../public/img/123.jpg") no-repeat;
+    background-size: 100%;
+  }
+}

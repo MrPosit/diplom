@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Sunny Yellow",
+    "country": "Spain",
+    "price": 10.99,
+    "description": "The vibrant, sunny yellow represents the cheerful and lively atmosphere of Spain, known for its warm weather, festivals, and vibrant culture.",
+    "img": "https://cdn.leroymerlin.ru/lmru/image/upload/v1683880751/b_white/c_pad/d_photoiscoming.png/f_auto/h_600/q_auto/w_600/lmcode/xkXuDFLcmE2xNvMGrpG_-w/87718487_tmp.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Grass Green ",
+    "country": "Ireland",
+    "price": 12.99,
+    "description": "The lush grass green is a nod to the emerald landscapes of Ireland, famous for its rolling green hills, meadows, and picturesque countryside.",
+    "img": "https://previews.123rf.com/images/dar298/dar2982304/dar298230400069/203460203-narcissus-flower-in-the-garden-with-green-grass-background..jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sky Blue ",
+    "country": "Greece",
+    "price": 11.99,
+    "description": "This color symbolizes the clear, captivating blue skies of Greece, a country blessed with beautiful weather and stunning coastal views.",
+    "img": "https://images.satom.ru/i3/firms/28/5860/5860117/lobeliya-rivera-skay-blu-50-semyan-elite-seed-riviera-sky-blue-nebolshoe-rastenie-useyannoe-nebesno-sinimi-cvetochkami_d21a672ea8b3c03_500x500_1.webp.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sea Wave",
+    "country": "Italy",
+    "price": 13.99,
+    "description": "The sea wave color reflects the deep blue waters surrounding Italy, particularly the Mediterranean Sea, highlighting the country's extensive coastline.",
+    "img": "https://i.pinimg.com/736x/be/8e/ac/be8eac07e7fd03d7026370f5471367c2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sandy Beige",
+    "country": "Egypt",
+    "price": 14.99,
+    "description": "Inspired by the sandy beaches of Egypt, this color evokes the warm, golden hues of the desert and the famous beaches along the Red Sea.",
+    "img": "https://img.freepik.com/free-photo/close-up-on-beautiful-blooming-flowers_23-2149316670.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703376000&semt=ais"
+  },
+  {
+    "id": 6,
+    "name": "Pink Sunset",
+    "country": "India",
+    "price": 12.49,
+    "description": "The pink sunset color captures the mesmerizing hues of the Indian sky during sunset, painting a picture of tranquility and spirituality.",
+    "img": "https://images.satu.kz/141817018_w600_h600_141817018.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Crimson Rose ",
+    "country": "Netherlands",
+    "price": 15.99,
+    "description": "The crimson rose color represents the flower fields of the Netherlands, especially the iconic tulip fields, adding a touch of vibrant beauty.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLtbqUn_FP9-M_p4WksXTR7jEYXVi5odVcw&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "name": "Purple Lavender",
+    "country": "France",
+    "price": 13.49,
+    "description": "Inspired by the lavender fields of Provence, France, this purple shade reflects the charm and aroma of the picturesque landscapes.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi38PY7LJqOxOeg3zNZCJs0IUAAg86woCyIQ&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "name": "Mountain Gray",
+    "country": "Switzerland ",
+    "price": 14.79,
+    "description": "The mountain gray color is a nod to the rugged and majestic gray rocks of the Swiss Alps, depicting the country's stunning alpine scenery.",
+    "img": "https://i.pinimg.com/736x/4a/0d/b4/4a0db4b61ca91f74929eb761cf770753.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bright Orange",
+    "country": "Brazil",
+    "price": 13.99,
+    "description": "Reflecting the tropical forests of Brazil, the bright orange symbolizes the vibrant flora and fauna found in the diverse ecosystems of the country.",
+    "img": "https://img.freepik.com/premium-photo/a-bright-orange-flower-against-a-white-background_435599-766.jpg?w=2000"
+  },
+  {
+    "id": 11,
+    "name": "Silvery Gray",
+    "country": "Iceland",
+    "price": 14.99,
+    "description": " Silvery gray represents the unique landscapes of Iceland, characterized by glaciers, volcanic rocks, and ethereal silvery vistas under the moonlight.",
+    "img": "https://kuban-roza.ru/wp-content/uploads/2021/12/amneziya-1-300x300.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Blue Glacier",
+    "country": "Iceland",
+    "price": 13.49,
+    "description": "This shade reflects the icy blue hues of Icelandic glaciers, highlighting the country's stunning glacial formations.",
+    "img": "https://avatars.dzeninfra.ru/get-zen_doc/3512851/pub_62091987992dff04522b7cf0_6209203b3d084f41d95ce73e/scale_1200"
+  },
+  {
+    "id": 13,
+    "name": "Golden Desert",
+    "country": "Morocco",
+    "price": 15.29,
+    "description": " The golden desert color captures the warm and enchanting tones of Morocco's vast Sahara Desert, known for its golden dunes.",
+    "img": "https://adenium-doma.ru/_sh/31/3117.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Emerald Green",
+    "country": "New Zealand",
+    "price": 14.79,
+    "description": "Inspired by the lush greenery of New Zealand, this emerald green represents the country's breathtaking landscapes, including rolling hills and dense forests.",
+    "img": "https://venusinfleurs.ru/image/catalog/product/5728/5728_1.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Ruby Red",
+    "country": "China",
+    "price": 13.99,
+    "description": "Symbolizing good fortune in Chinese culture, ruby red represents the rich cultural heritage and prosperity of China.",
+    "img": "https://agro-breza.com/wp-content/uploads/2020/07/RubyRed-600x600.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Sapphire Blue",
+    "country": "Thailand",
+    "price": 14.49,
+    "description": "The sapphire blue color is reminiscent of the crystal-clear blue waters surrounding the stunning beaches of Thailand.",
+    "img": "https://static.insales-cdn.com/images/products/1/7846/646635174/S9702-Sapphire-Blue.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Copper Canyon",
+    "country": "Mexico",
+    "price": 13.79,
+    "description": "Inspired by the copper-colored canyons of Mexico, this hue reflects the warm and earthy tones of the country's diverse landscapes.",
+    "img": "https://avatars.dzeninfra.ru/get-zen_doc/4488125/pub_6088ccd4d61208574f950902_6088cd6e614fa04f5cfbf819/scale_1200"
+  },
+  {
+    "id": 18,
+    "name": "Olive Grove",
+    "country": "Greece",
+    "price": 16.49,
+    "description": "The olive grove color represents the iconic olive trees that dot the Greek countryside, symbolizing peace and abundance.",
+    "img": "https://st4.depositphotos.com/11316878/41394/i/450/depositphotos_413942708-stock-photo-olive-gardens-of-lun-with.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Pearl White",
+    "country": "Antarctica",
+    "price": 15.99,
+    "description": "Antarctica's vast icy landscapes are captured by the pearl white color, representing the pristine and untouched beauty of the continent.",
+    "img": "https://lukmor.kz/d/kolokolchik_karpatskiy_perla_uayt_05l_web.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Terracotta",
+    "country": "Turkey",
+    "price": 14.79,
+    "description": "Inspired by the terracotta landscapes of Cappadocia, Turkey, this color reflects the unique rock formations and warm tones of the region.",
+    "img": "https://sadfloxov.ru/img/work/nomencl/12847.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Violet Orchid",
+    "country": "Japan",
+    "price": 15.29,
+    "description": "The violet orchid color is a tribute to the elegant and symbolic orchids found in Japanese gardens, representing beauty and grace.",
+    "img": "https://as1.ftcdn.net/v2/jpg/02/97/55/58/1000_F_297555812_xKIe2fVjIGGWwbX2hEbtHvqPIr26bCBP.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Coral Pink",
+    "country": "Australia",
+    "price": 16.49,
+    "description": "This color reflects the coral pink hues found in the Great Barrier Reef, showcasing the natural beauty of Australia's underwater ecosystems.",
+    "img": "https://img.freepik.com/premium-photo/closeup-of-pink-coral-bells-flowers_750831-138.jpg?w=2000"
+  },
+  {
+    "id": 23,
+    "name": "Arctic Blue",
+    "country": "Norway",
+    "price": 14.99,
+    "description": "The arctic blue represents the cool and crisp blue tones of Norway's Arctic landscapes, including its glaciers and fjords.",
+    "img": "https://planetaflora.ru/images/virtuemart/product/flori/rododendron-plotnyy-arctic-blue13455.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Lavender Mist",
+    "country": "South Africa",
+    "price": 13.79,
+    "description": "Inspired by the lavender mist that can be found in South African landscapes, this color captures the serene and tranquil essence of the region.",
+    "img": "https://i.pinimg.com/originals/bb/91/b1/bb91b14219cf4a82470e1b987afbdc32.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Turquoise Lagoon",
+    "country": "Maldives",
+    "price": 14.49,
+    "description": "The turquoise lagoon color reflects the crystal-clear turquoise waters of the Maldives, portraying the idyllic and tropical paradise of the islands.",
+    "img": "https://img.freepik.com/premium-vector/vector-watercolor-turquoise-lagoon-sweet-pea-clipart-florist-editable_912609-2043.jpg?w=2000"
+  },
+  {
+    "id": 26,
+    "name": "Ebony Black",
+    "country": "Kenya",
+    "price": 15.29,
+    "description": " Ebony black symbolizes the rich and dark soils of the Kenyan savannah, home to diverse wildlife and iconic landscapes.",
+    "img": "https://i.pinimg.com/736x/01/36/33/013633f4c6692f35e8cc85cb5311beb3.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Cherry Blossom Pink",
+    "country": "South Korea",
+    "price": 14.79,
+    "description": "This color represents the soft and delicate pink hues of cherry blossoms that bloom in South Korea during the spring season, symbolizing renewal and beauty.",
+    "img": "https://thumbs.dreamstime.com/z/%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA-sakura-14318686.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Platinum Silver",
+    "country": "Russia",
+    "price": 16.99,
+    "description": "Inspired by the silver landscapes of the Russian tundra, this color captures the cool and reflective beauty of the country's northern regions.",
+    "img": "https://i.pinimg.com/564x/6d/bb/ac/6dbbac2868cedac62f857c66b6374d8f.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Tangerine Orange",
+    "country": "USA",
+    "price": 15.99,
+    "description": "The tangerine orange color symbolizes the warm and vibrant tones found in the Grand Canyon, one of the USA's most iconic natural ",
+    "img": "https://thumbs.dreamstime.com/b/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%BD-tangerine-31401467.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Fiery Red",
+    "country": "Canada",
+    "price": 17.99,
+    "description": "his fiery red is reminiscent of the spectacular autumn foliage in Canada, where maple leaves turn vibrant shades of red during the fall season.",
+    "img": "https://rosecatalog.ru/upload/000/u1/c1/73/mainaufeuer-photo-big.jpg"
+  }
+]
